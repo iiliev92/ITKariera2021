@@ -1,0 +1,14 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\bin\Debug\netcoreapp3.1\StringBuilderExcercise.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\StringBuilderExcercise\obj\Debug\netcoreapp3.1\StringBuilderExcercise.genruntimeconfig.cache

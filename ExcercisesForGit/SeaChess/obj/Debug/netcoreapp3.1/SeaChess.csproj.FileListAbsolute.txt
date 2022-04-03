@@ -1,0 +1,14 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\bin\Debug\netcoreapp3.1\SeaChess.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\SeaChess\obj\Debug\netcoreapp3.1\SeaChess.genruntimeconfig.cache

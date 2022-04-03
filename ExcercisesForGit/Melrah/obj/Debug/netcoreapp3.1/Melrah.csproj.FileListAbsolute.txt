@@ -1,0 +1,14 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\bin\Debug\netcoreapp3.1\Melrah.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Melrah\obj\Debug\netcoreapp3.1\Melrah.genruntimeconfig.cache

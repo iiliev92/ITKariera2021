@@ -1,0 +1,14 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\bin\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\TwoDimensionalArrayAndLotteryTicket\obj\Debug\netcoreapp3.1\TwoDimensionalArrayAndLotteryTicket.genruntimeconfig.cache
