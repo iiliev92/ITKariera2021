@@ -1,0 +1,14 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\bin\Debug\netcoreapp3.1\MagicWords.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\MagicWords\obj\Debug\netcoreapp3.1\MagicWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\bin\Debug\netcoreapp3.1\Hideout.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\Hideout\obj\Debug\netcoreapp3.1\Hideout.genruntimeconfig.cache

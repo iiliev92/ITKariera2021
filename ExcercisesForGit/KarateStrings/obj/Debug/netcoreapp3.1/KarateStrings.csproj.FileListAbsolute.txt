@@ -1,0 +1,13 @@
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.exe
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.deps.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.runtimeconfig.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\bin\Debug\netcoreapp3.1\KarateStrings.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.dll
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.pdb
+\\VBOXSVR\Shared_Files\#ИТ Кариера\#2\M2 Excercises\Excercises22-30\KarateStrings\obj\Debug\netcoreapp3.1\KarateStrings.genruntimeconfig.cache
